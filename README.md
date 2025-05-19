@@ -54,9 +54,8 @@ python save_test_data.py --repodir Repodir --repo_name repo_name
 * All intermediate and final results are saved inside the `Repodir` folder.
 * This includes:
 
-  * JSON/CSV data files for bug reports.
   * Commit mapping and metadata.
-  * Index files for training and testing.
+  * Indexed source files
 
 ---
 
